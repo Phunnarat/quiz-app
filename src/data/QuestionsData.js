@@ -1,6 +1,6 @@
-const QuestionData = [
+const QuestionsData = [
     {
-        qusetion:"ข้อใดไม่ใช่ tag html",
+        question:"ข้อใดไม่ใช่ tag html",
         A:"<react>",
         B:"<a>",
         C:"<p>",
@@ -8,7 +8,7 @@ const QuestionData = [
         answer:"A"
     },
     {
-        qusetion:"ข้อใดถูกต้องเกี่ยวกับ React",
+        question:"ข้อใดถูกต้องเกี่ยวกับ React",
         A:"ทำงานฝั่ง Server",
         B:"ใช้จัดการฐานข้อมูล",
         C:"เป็น JavaScript Library",
@@ -16,7 +16,7 @@ const QuestionData = [
         answer:"C"
     },
     {
-        qusetion:"ข้อใดคือ Browser",
+        question:"ข้อใดคือ Browser",
         A:"PHP",
         B:"React",
         C:"MySQL",
@@ -25,4 +25,4 @@ const QuestionData = [
     }
 ]
 
-export default QuestionData
+export default QuestionsData
